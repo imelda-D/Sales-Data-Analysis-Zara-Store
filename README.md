@@ -31,5 +31,9 @@ This project aims to analyze the sales performance of a Zara store based on vari
 - Review the quality and layout of products in the Women's department.
 - Organize advertising campaigns or promotions for women's items.
 
+## Visualisation
+![Dashboard Zara](Dashboard.png)
+
+
 ## Author
 LEMOUKONG Imelda
